@@ -1,0 +1,11 @@
+C:\Users\Fernanda Del Toro\source\repos\TiendaDepartamentalUX\TiendaDepartamentalUX\bin\Debug\TiendaDepartamentalUX.exe.config
+C:\Users\Fernanda Del Toro\source\repos\TiendaDepartamentalUX\TiendaDepartamentalUX\bin\Debug\TiendaDepartamentalUX.exe
+C:\Users\Fernanda Del Toro\source\repos\TiendaDepartamentalUX\TiendaDepartamentalUX\bin\Debug\TiendaDepartamentalUX.pdb
+C:\Users\Fernanda Del Toro\source\repos\TiendaDepartamentalUX\TiendaDepartamentalUX\obj\Debug\TiendaDepartamentalUX.csproj.AssemblyReference.cache
+C:\Users\Fernanda Del Toro\source\repos\TiendaDepartamentalUX\TiendaDepartamentalUX\obj\Debug\TiendaDepartamentalUX.Form1.resources
+C:\Users\Fernanda Del Toro\source\repos\TiendaDepartamentalUX\TiendaDepartamentalUX\obj\Debug\TiendaDepartamentalUX.Properties.Resources.resources
+C:\Users\Fernanda Del Toro\source\repos\TiendaDepartamentalUX\TiendaDepartamentalUX\obj\Debug\TiendaDepartamentalUX.csproj.GenerateResource.cache
+C:\Users\Fernanda Del Toro\source\repos\TiendaDepartamentalUX\TiendaDepartamentalUX\obj\Debug\TiendaDepartamentalUX.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda Del Toro\source\repos\TiendaDepartamentalUX\TiendaDepartamentalUX\obj\Debug\TiendaDepartamentalUX.exe
+C:\Users\Fernanda Del Toro\source\repos\TiendaDepartamentalUX\TiendaDepartamentalUX\obj\Debug\TiendaDepartamentalUX.pdb
+C:\Users\Fernanda Del Toro\source\repos\TiendaDepartamentalUX\TiendaDepartamentalUX\obj\Debug\TiendaDepartamentalUX.ProductosDisponibles.resources
